@@ -1,0 +1,48 @@
+/* Завдання1 */
+
+
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border: 2px solid black;
+}
+
+*/
+/* .color1 {
+background-color: brown;
+}
+/* ////////////завдання 2///////////////////// */
+
+#box {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+/* //////////завдання 4/////////// */
+
+ol {
+
+    font-size: 30px;
+}
+
+/* ////////////// завдання 3///////////////////// */
+.box {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 300px;
+    grid-gap: 60px;
+    margin: 20px 50px;
+
+}
+
+.box1,
+.box2,
+.box3 {
+    border: thick double black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
